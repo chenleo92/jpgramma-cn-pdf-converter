@@ -5,6 +5,8 @@
 ## 用法
 在安装了tex、golang等环境后，直接运行：
 ```
+cd ./jpgramma
+wget --recursive http://res.wokanxing.info/jpgramma/
 make
 ```
 
